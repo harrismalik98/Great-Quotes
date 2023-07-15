@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Great-Quotes/static/css/main.7f9a74a7.css",
-    "main.js": "/Great-Quotes/static/js/main.26e2d43b.js",
-    "static/css/677.9750b1a5.chunk.css": "/Great-Quotes/static/css/677.9750b1a5.chunk.css",
-    "static/js/677.d1143949.chunk.js": "/Great-Quotes/static/js/677.d1143949.chunk.js",
-    "static/css/884.ebfd71b8.chunk.css": "/Great-Quotes/static/css/884.ebfd71b8.chunk.css",
-    "static/js/884.4d9c0c73.chunk.js": "/Great-Quotes/static/js/884.4d9c0c73.chunk.js",
-    "static/js/922.e5387a96.chunk.js": "/Great-Quotes/static/js/922.e5387a96.chunk.js",
-    "index.html": "/Great-Quotes/index.html",
-    "main.7f9a74a7.css.map": "/Great-Quotes/static/css/main.7f9a74a7.css.map",
-    "main.26e2d43b.js.map": "/Great-Quotes/static/js/main.26e2d43b.js.map",
-    "677.9750b1a5.chunk.css.map": "/Great-Quotes/static/css/677.9750b1a5.chunk.css.map",
-    "677.d1143949.chunk.js.map": "/Great-Quotes/static/js/677.d1143949.chunk.js.map",
-    "884.ebfd71b8.chunk.css.map": "/Great-Quotes/static/css/884.ebfd71b8.chunk.css.map",
-    "884.4d9c0c73.chunk.js.map": "/Great-Quotes/static/js/884.4d9c0c73.chunk.js.map",
-    "922.e5387a96.chunk.js.map": "/Great-Quotes/static/js/922.e5387a96.chunk.js.map"
+    "main.css": "/quotes/static/css/main.7f9a74a7.css",
+    "main.js": "/quotes/static/js/main.bc58771c.js",
+    "static/css/677.9750b1a5.chunk.css": "/quotes/static/css/677.9750b1a5.chunk.css",
+    "static/js/677.d1143949.chunk.js": "/quotes/static/js/677.d1143949.chunk.js",
+    "static/css/884.ebfd71b8.chunk.css": "/quotes/static/css/884.ebfd71b8.chunk.css",
+    "static/js/884.4d9c0c73.chunk.js": "/quotes/static/js/884.4d9c0c73.chunk.js",
+    "static/js/922.e5387a96.chunk.js": "/quotes/static/js/922.e5387a96.chunk.js",
+    "index.html": "/quotes/index.html",
+    "main.7f9a74a7.css.map": "/quotes/static/css/main.7f9a74a7.css.map",
+    "main.bc58771c.js.map": "/quotes/static/js/main.bc58771c.js.map",
+    "677.9750b1a5.chunk.css.map": "/quotes/static/css/677.9750b1a5.chunk.css.map",
+    "677.d1143949.chunk.js.map": "/quotes/static/js/677.d1143949.chunk.js.map",
+    "884.ebfd71b8.chunk.css.map": "/quotes/static/css/884.ebfd71b8.chunk.css.map",
+    "884.4d9c0c73.chunk.js.map": "/quotes/static/js/884.4d9c0c73.chunk.js.map",
+    "922.e5387a96.chunk.js.map": "/quotes/static/js/922.e5387a96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f9a74a7.css",
-    "static/js/main.26e2d43b.js"
+    "static/js/main.bc58771c.js"
   ]
 }
