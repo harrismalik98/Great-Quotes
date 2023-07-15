@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Great-Quotes/static/css/main.7f9a74a7.css",
-    "main.js": "/Great-Quotes/static/js/main.8be48fde.js",
+    "main.js": "/Great-Quotes/static/js/main.b7951938.js",
     "static/css/677.9750b1a5.chunk.css": "/Great-Quotes/static/css/677.9750b1a5.chunk.css",
     "static/js/677.d1143949.chunk.js": "/Great-Quotes/static/js/677.d1143949.chunk.js",
     "static/css/884.ebfd71b8.chunk.css": "/Great-Quotes/static/css/884.ebfd71b8.chunk.css",
@@ -9,7 +9,7 @@
     "static/js/922.e5387a96.chunk.js": "/Great-Quotes/static/js/922.e5387a96.chunk.js",
     "index.html": "/Great-Quotes/index.html",
     "main.7f9a74a7.css.map": "/Great-Quotes/static/css/main.7f9a74a7.css.map",
-    "main.8be48fde.js.map": "/Great-Quotes/static/js/main.8be48fde.js.map",
+    "main.b7951938.js.map": "/Great-Quotes/static/js/main.b7951938.js.map",
     "677.9750b1a5.chunk.css.map": "/Great-Quotes/static/css/677.9750b1a5.chunk.css.map",
     "677.d1143949.chunk.js.map": "/Great-Quotes/static/js/677.d1143949.chunk.js.map",
     "884.ebfd71b8.chunk.css.map": "/Great-Quotes/static/css/884.ebfd71b8.chunk.css.map",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.7f9a74a7.css",
-    "static/js/main.8be48fde.js"
+    "static/js/main.b7951938.js"
   ]
 }
